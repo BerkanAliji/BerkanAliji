@@ -1,6 +1,6 @@
 ## 👋 Hallo, ich bin Berkan Aliji
 
-🏫 Schüler an der Informatikmittelschule Büelrain mit Schwerpunkt Informatik und wirtschaftlichen Kenntnissen
+🏫 Schüler an der Informatikmittelschule Büelrain mit Schwerpunkt Informatik und wirtschaftlichen Kenntnissen <br>
 📍Winterthur ZH, Schweiz
 
 ## 💬 Über mich
