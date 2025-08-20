@@ -11,7 +11,7 @@
 
 ## 🌱 Was ich gerade lerne
 
-📜 Zurzeit beschäftige ich mich intensiv mit Luau/Lua <br>
+📜 Zurzeit beschäftige ich mich intensiv mit LuaU/Lua <br>
 
 ## 🎯 Skills
 
