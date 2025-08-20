@@ -5,30 +5,29 @@
 
 ## 💬 Über mich
 
-🎓 Ausbildung: Informatikmittelschule IMS, Winterthur (2023–2025, laufend)
-🏊 Engagement: NSW Volleyball Klub, Fortnite Pro
-📚 Lernziele: Vertiefung in Webentwicklung und DevOps
+🎓 Ausbildung: Informatikmittelschule IMS, Winterthur (2023–2025, laufend) <br>
+🏊 Engagement: NSW Volleyball Klub, Fortnite Pro <br>
+📚 Lernziele: Vertiefung in Webentwicklung und DevOps <br>
 
 ## 🌱 Was ich gerade lerne
 
-📜 Zurzeit beschäftige ich mich intensiv mit Luau/Lua
+📜 Zurzeit beschäftige ich mich intensiv mit Luau/Lua <br>
 
 ## 🎯 Skills
 
-- Programmieren (OOP, funktional, verteilt),
-- Web- & App-Entwicklung (Frontend, Backend, Mobile), 
-- Datenbanken (SQL, NoSQL), 
-- Cloud, DevOps, IT-Security, Automatisierung, 
-- agile Methoden, IT-Infrastruktur, 
-- Projektarbeit
+- Programmieren (OOP, funktional, verteilt), <br>
+- Web- & App-Entwicklung (Frontend, Backend, Mobile), <br>
+- Datenbanken (SQL, NoSQL), <br>
+- Cloud, DevOps, IT-Security, Automatisierung, <br>
+- agile Methoden, IT-Infrastruktur, <br>
+- Projektarbeit<br>
 
 ## 📊 Github Infos
 
 ## 📫 Kontakt
 
-berkanaliji@hotmail.com
-
-076 540 14 73
+berkanaliji@hotmail.com <br>
+076 540 14 73 <br>
 
 <!--
 **BerkanAliji/BerkanAliji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
