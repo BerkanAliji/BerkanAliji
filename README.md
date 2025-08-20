@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hallo, ich bin  👋
+
+## Über mich
+
+## Was ich gerade lerne
+
+## Skills
+
+## Github Infos
+
+## Kontakt
 
 <!--
 **BerkanAliji/BerkanAliji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
