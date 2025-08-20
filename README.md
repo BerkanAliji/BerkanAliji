@@ -15,7 +15,7 @@
 
 ## 🎯 Skills
 
-- Programmieren (OOP, funktional, React), <br>
+- Programmieren (OOP, funktional), <br>
 - Web- & App-Entwicklung (Frontend, Backend), <br>
 - Datenbanken (SQL, NoSQL), <br>
 - Cloud, DevOps, IT-Security, Automatisierung, <br>
