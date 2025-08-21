@@ -22,6 +22,16 @@
 - agile Methoden, IT-Infrastruktur, <br>
 - Projektarbeite<br>
 
+## 🖼️ Projekte
+
+| Projekt | Beschreibung | Technologien |
+|---------|--------------|--------------|
+|  |  |  |
+| |  |  |
+|  |  |  |
+
+
+
 ## 📫 Kontakt
 
 berkanaliji@hotmail.com <br>
