@@ -15,12 +15,12 @@
 
 ## 🎯 Skills
 
-- Programmieren (OOP, funktional), <br>
+- Programmieren, <br>
 - Web- & App-Entwicklung (Frontend, Backend), <br>
 - Datenbanken (SQL, NoSQL), <br>
 - Cloud, DevOps, IT-Security, Automatisierung, <br>
 - agile Methoden, IT-Infrastruktur, <br>
-- Projektarbeit<br>
+- Projektarbeite<br>
 
 ## 📫 Kontakt
 
