@@ -22,8 +22,6 @@
 - agile Methoden, IT-Infrastruktur, <br>
 - Projektarbeit<br>
 
-## 📊 Github Infos
-
 ## 📫 Kontakt
 
 berkanaliji@hotmail.com <br>
