@@ -26,9 +26,9 @@
 
 | Projekt | Beschreibung | Technologien |
 |---------|--------------|--------------|
-|  |  |  |
-| |  |  |
-|  |  |  |
+|Wirtschaftspolitik IDAF  |https://github.com/BerkanAliji/Wirtschaftpolitik-Website  | React (HTML, CSS, JS) |
+|DataStoreLUAU | https://github.com/BerkanAliji/DataStore-LuaU- | Lua  |
+|cpucheck  | https://github.com/BerkanAliji/cpucheck | Java |
 
 
 
